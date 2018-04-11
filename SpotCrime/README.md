@@ -1,2 +1,0 @@
-# SpotCrime
-For study purposes.
